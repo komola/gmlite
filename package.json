@@ -1,0 +1,51 @@
+{
+  "name": "gmlite",
+  "description": "Lite version of graphicsmagick.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thomas Schaaf",
+    "email": "schaaf@komola.de"
+  },
+  "keywords": [
+    "nodejs",
+    "graphics magick",
+    "graphics",
+    "magick",
+    "image",
+    "graphicsmagick",
+    "imagemagick"
+  ],
+  "engines": {
+    "node": ">= 0.4.2"
+  },
+  "bugs": {
+    "url": "http://github.com/komola/gmlite"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "./index",
+  "contributors": [
+    {
+      "name": "Thomas Schaaf",
+      "email": "schaaf@komola.de"
+    },
+    {
+      "name": "Sebastian Hoitz"
+    },
+    {
+      "name": "Claas Lange"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/komola/gmlite.git"
+  },
+  "devDependencies": {
+    "should": "0.2.1",
+    "gleak": "0.2.2"
+  },
+}
