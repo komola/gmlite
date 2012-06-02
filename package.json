@@ -15,7 +15,7 @@
     "graphicsmagick",
     "imagemagick"
   ],
-  "engines": {
+  "engines": {s
     "node": ">= 0.4.2"
   },
   "bugs": {
